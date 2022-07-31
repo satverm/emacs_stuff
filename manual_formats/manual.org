@@ -1,0 +1,6 @@
+#+TITLE: TECHNICAL PUBLICATION FORMAT
+* Introduction
+    This document is a blueprint for making any new manual. All the required basic pages are already provided and the user needs to only put the specic details about the document rather than worrying about the formt and basic contents like the front pages, title page, table of contents, list of figures and tables etc. The plan is to first make the top level contents and then further dig down in the details.
+* [[* Front Matter][Front matter]
+* Main Body
+* End Matter
